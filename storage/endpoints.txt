@@ -185,6 +185,7 @@ http://mijn.adr.donorregister.nl
 http://mijn.rvo.nl
 http://mobiel.douane.nl
 http://monitor-klimaatadaptatie.zuid-holland.nl
+http://nextcloud.rvb.rijkscloud.nl
 http://nextcloud.waterschaplimburg.nl
 http://nexus.lpc.logius.nl
 http://nvi.proeftuin.gf.irealisatie.nl
@@ -202,6 +203,7 @@ http://opendata.english.farmatec.nl
 http://opendata.english.mijncn.nl
 http://opendata.english.rda.nl
 http://opendata.papiamentu.mijncn.nl
+http://opendata.rvb.rijkscloud.nl
 http://otv-stub.proeftuin.gf.irealisatie.nl
 http://otv-stub.test.gf.irealisatie.nl
 http://p-crl.justid.nl
@@ -229,6 +231,7 @@ http://qualification-admin.test.zm.irealisatie.nl
 http://qualification-api.test.zm.irealisatie.nl
 http://qualification.test.zm.irealisatie.nl
 http://ref.omgevingswet.overheid.nl
+http://registry.gitlab.datascience.rijkscloud.nl
 http://release.isis-web.nl
 http://reserved-cesar-db.knmi.nl
 http://rhel-np-mijn.rvo.nl
@@ -242,6 +245,7 @@ http://rijkspasocsp2-acc.dictu.nl
 http://rijkspasocsp2.dictu.nl
 http://rijkstrainee.werkenvoornederland.nl
 http://rijkstrainees.werkenvoornederland.nl
+http://rob2000.rijkscloud.nl
 http://samenwerkruimten-conf.belastingdienst.nl
 http://samenwerkruimten.belastingdienst.nl
 http://sat.irealisatie.nl
@@ -252,6 +256,8 @@ http://sharepoint-ext.belastingdienst.nl
 http://slechtvalk.brabant.nl
 http://sonarqube.lpc.logius.nl
 http://specials.brabant.nl
+http://sso.dbe-t.rvb.rijkscloud.nl
+http://ssp.ix.rijkscloud.nl
 http://staatvan.zuid-holland.nl
 http://stagiairs.werkenvoornederland.nl
 http://sterftedashboard.vzinfo.nl
@@ -2025,7 +2031,6 @@ https://investeringsimpulsspv.nl
 https://iob-evaluatie.nl
 https://iob.justid.nl
 https://ip.rijkscloud.nl
-https://ip.test.duo.rijkscloud.nl
 https://ip4.rijkscloud.nl
 https://ip6.rijkscloud.nl
 https://ipi.rijkscloud.nl
@@ -2071,20 +2076,13 @@ https://jobs.werkenvoornederland.nl
 https://jokesmitprijs.nl
 https://jong.belastingdienst.nl
 https://jouw.belastingdienst.nl
-https://jupyter.analyse.ilt.rijkscloud.nl
 https://jupyter.cursus.rijkscloud.nl
 https://jupyter.datalab-2.ocw.rijkscloud.nl
-https://jupyter.datalab-3.ocw.rijkscloud.nl
-https://jupyter.dstrial-inspectieraad.rijkscloud.nl
 https://jupyter.fib.ienw.rijkscloud.nl
 https://jupyter.horizon.ienw.rijkscloud.nl
 https://jupyter.hr-ienw.rijkscloud.nl
-https://jupyter.ilt-zz.rijkscloud.nl
-https://jupyter.ilt.rijkscloud.nl
 https://jupyter.ipi.rijkscloud.nl
-https://jupyter.kim.rijkscloud.nl
 https://jupyter.rdi.rijkscloud.nl
-https://jupyter.ritp.rijkscloud.nl
 https://justid.nl
 https://justis.nl
 https://justitieconnect.nl
@@ -2123,8 +2121,6 @@ https://kennisvandeoverheid.nl
 https://keuzehulpverkeersmaatregelen.zuid-holland.nl
 https://keycloak.analyse.ilt.rijkscloud.nl
 https://keycloak.ndw.nu
-https://keycloak.rdi.rijkscloud.nl
-https://keycloak.test.analyse.ilt.rijkscloud.nl
 https://kgr.mijn.rvo.nl
 https://kiesraad.nl
 https://kik-v.nl
@@ -2333,7 +2329,6 @@ https://medicineshortagesdefects.nl
 https://meepraten.flevoland.nl
 https://meet.aaenmaas.nl
 https://meet.om.nl
-https://meet.rijkscloud.nl
 https://meet.rijksrecherche.nl
 https://meldingbwt.odmh.nl
 https://meldingen.atkm.nl
@@ -2502,9 +2497,7 @@ https://new.mijn.knmi.nl
 https://nextcloud.acc.irealisatie.nl
 https://nextcloud.dgdoobi.rijkscloud.nl
 https://nextcloud.irealisatie.nl
-https://nextcloud.ix.rijkscloud.nl
 https://nextcloud.rijkspas.rijkscloud.nl
-https://nextcloud.rvb.rijkscloud.nl
 https://ngr.acceptatie.nationaalgeoregister.nl
 https://nh.douane.nl
 https://nieuws.brabant.nl
@@ -2874,7 +2867,6 @@ https://opendata.royalhonoursanddecorations.nl
 https://opendata.rsj.nl
 https://opendata.ruimtelijkeordening.nl
 https://opendata.ruimtevoorderivier.nl
-https://opendata.rvb.rijkscloud.nl
 https://opendata.samenwerkingrijknoord.nl
 https://opendata.sbv-z.nl
 https://opendata.schoolleidersregisterpo.nl
@@ -3220,7 +3212,6 @@ https://register.tlokb.nl
 https://registreren-acc.ep-online.nl
 https://registreren.ep-online.nl
 https://registry.acceptatie.istandaarden.nl
-https://registry.gitlab.datascience.rijkscloud.nl
 https://registry.gitlab.ix.rijkscloud.nl
 https://registry.gitlab.wibo.ienw.rijkscloud.nl
 https://registry.istandaarden.nl
@@ -3274,7 +3265,6 @@ https://rni-webform-acc.rvig.nl
 https://rni-webform.rvig.nl
 https://ro.zuid-holland.nl
 https://rob-2000.rijkscloud.nl
-https://rob2000.rijkscloud.nl
 https://royal-house.nl
 https://royalhonoursanddecorations.nl
 https://rpx-qa.nza.nl
@@ -3288,8 +3278,8 @@ https://rstudio.dstrial-inspectieraad.rijkscloud.nl
 https://rstudio.fib.ienw.rijkscloud.nl
 https://rstudio.horizon.ienw.rijkscloud.nl
 https://rstudio.hr-ienw.rijkscloud.nl
+https://rstudio.idlab.ilt.rijkscloud.nl
 https://rstudio.ilt.rijkscloud.nl
-https://rstudio.informatieproducten.duo.rijkscloud.nl
 https://rstudio.ip.test.duo.rijkscloud.nl
 https://rstudio.ipi.rijkscloud.nl
 https://rstudio.kim.rijkscloud.nl
@@ -3351,9 +3341,7 @@ https://securemail.zorginstituutnederland.nl
 https://securened.ncsc.nl
 https://securenet.ncsc.nl
 https://securetest.vechtstromen.nl
-https://securetransfer.rijkscloud.nl
 https://security.ndw.nu
-https://sensu.ix.rijkscloud.nl
 https://sentry.ndw.nu
 https://server.rijksoverheidsvideo.nl
 https://service.acc.omgevingswet.overheid.nl
@@ -3385,7 +3373,6 @@ https://sfs-acc.dictu.nl
 https://sfs.dictu.nl
 https://shared-services.ndw.nu
 https://sharingknowledge.rvo.nl
-https://shiny.cursus.rijkscloud.nl
 https://shiny.datalab-2.ocw.rijkscloud.nl
 https://shiny.hr-ienw.rijkscloud.nl
 https://shiny.ritp.rijkscloud.nl
@@ -3432,7 +3419,6 @@ https://sso-demo2.bronhouderportaal-bro.nl
 https://sso.acc.omgevingswet.overheid.nl
 https://sso.acceptatie.istandaarden.nl
 https://sso.bta.omgevingswet.overheid.nl
-https://sso.dbe-t.rvb.rijkscloud.nl
 https://sso.dmo.omgevingswet.overheid.nl
 https://sso.enabling.omgevingswet.overheid.nl
 https://sso.int.omgevingswet.overheid.nl
@@ -3453,7 +3439,6 @@ https://sso.pre.omgevingswet.overheid.nl
 https://sso.rijksdienstcn.com
 https://sso.tst2905.omgevingswet.overheid.nl
 https://sso3w.nl
-https://ssp.ix.rijkscloud.nl
 https://staatscommissie2050.nl
 https://staatscommissierechtsstaat.nl
 https://staatscommissietegendiscriminatieenracisme.nl
